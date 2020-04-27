@@ -1,0 +1,16 @@
+h1 {
+  color: pink;
+  font-family: monospace;
+}
+
+footer {
+  background-color: rosybrown;
+}
+footer h4 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+footer h4 p {
+  color: royalblue;
+}
+
+/*# sourceMappingURL=estilos.css.map */
